@@ -1,0 +1,21 @@
+#fw-feed-items .fw-feed-item-title{color:#000000}
+.fw-feed-item-title {
+    margin: 0;
+    padding: 0;
+    color: #000000;
+    line-height: 1.5;
+    font-size: 15px;
+    overflow: hidden;
+    display: block;
+}
+.fw-feed-item-content-module {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+.fw-feed-item {
+    margin: 0;
+    padding: 15px;
+    clear: both;
+    border-bottom: 1px dashed #CCCCCC;
+}
